@@ -1,14 +1,22 @@
-# 💫 About Me:
-TA at GIU | MSc Business Informatics<br>Passionate about building impactful tech solutions across sectors. <br>Turning ideas into real-world impact. 🚀
+<div align="center">
 
+# Mariam Khalid 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mariam-khalid-a0015a21) 
+🎓 **Business Informatics Teaching Assistant @ GIU**  
+📊 **MSc in Business Informatics — Data Science Focus**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+I love building **tech that solves real problems we face daily.**  
+From **data projects** to **web tools** and **education platforms**,  
+my goal is simple: **use technology to create impact.**
+
+Currently working on a **banger project: _SimLab_** 👀  
+Stay connected to see what’s coming next.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mariamkhalid01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌍 Connect With Me
+
+[Portfolio](https://mariamkhalid-portfolio.vercel.app) •  
+[LinkedIn](https://linkedin.com/in/mariam-khalid-a0015a21a)
+
+</div>
