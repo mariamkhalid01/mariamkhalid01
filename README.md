@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Mariam Khalid 
-</div> 
----
+# Hi 👋, I'm Mariam Khalid </div> 
+
+
 🎓 **Business Informatics Teaching Assistant @ GIU**  
 📊 **MSc in Business Informatics — Data Science Focus**
 
