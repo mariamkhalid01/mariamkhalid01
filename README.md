@@ -10,7 +10,7 @@ something to fix it. That's how most of my projects started:
 - Bored of static lecture slides putting students to sleep → built **SlidesBuzz**, 
   a live quiz/leaderboard layer for classrooms
 - Tired of writing the same prompt structure over and over → built **Promptify**, 
-  a Chrome extension that does it for me (and now for 1 whole stranger on the internet too 👋)
+  a Chrome extension that does it for me 
 
 Before this I spent a couple years teaching robotics and coding to kids aged 6–18 
 (80+ sessions and counting), which honestly taught me more about explaining things 
