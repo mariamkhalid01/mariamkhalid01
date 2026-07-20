@@ -1,7 +1,7 @@
 ### Hey, I'm Mariam 👋
 
 I'm a software engineer, currently doing my MSc in Business Informatics 
-at GIU — and also as a teaching assistant there, which means I spend half my week 
+at GIU — and also a teaching assistant there, which means I spend half my week 
 explaining code to students and the other half writing it myself.
 
 **What I actually do:** 
