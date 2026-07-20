@@ -1,22 +1,29 @@
-<div align="center">
+### Hey, I'm Mariam 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+👋+I'm+Mariam)](https://git.io/typing-svg)
+I'm a software engineer, currently doing my MSc in Business Informatics 
+at GIU — and also as a teaching assistant there, which means I spend half my week 
+explaining code to students and the other half writing it myself.
 
-🎓 **Business Informatics Teaching Assistant @ GIU**  
-📊 **MSc in Business Informatics — Data Science Focus**
+**What I actually do:** 
+I notice a problem, get annoyed enough by it, and build 
+something to fix it. That's how most of my projects started:
+- Bored of static lecture slides putting students to sleep → built **SlidesBuzz**, 
+  a live quiz/leaderboard layer for classrooms
+- Tired of writing the same prompt structure over and over → built **Promptify**, 
+  a Chrome extension that does it for me (and now for 1 whole stranger on the internet too 👋)
 
-* I love building **tech that solves real problems we face daily.**  
-* From **data projects** to **web tools** and **education platforms**,  
-* My goal is simple: **use technology to create impact.**
+Before this I spent a couple years teaching robotics and coding to kids aged 6–18 
+(80+ sessions and counting), which honestly taught me more about explaining things 
+simply than any CS course did.
 
-Currently working on a **banger project: _SimLab_** 👀  
-Stay connected to see what’s coming next.
+**Currently:** building **SimLab** 👀 — more on that soon.
 
----
+**Stack I actually use:** React · TypeScript · SQL · Python · Laravel · Power BI · 
+a healthy amount of AI
 
-### 🌍 Connect With Me
+**Outside of code:** if there's ever a Power BI dashboard on Premier League stats 
+in my repos, yes, that was me being unable to just watch football like a normal person.
 
-[Portfolio](https://mariamkhalid-portfolio.vercel.app)  
-[LinkedIn](https://linkedin.com/in/mariam-khalid-a0015a21a)
-
-</div>
+📫 Reach me: 
+[LinkedIn](https://www.linkedin.com/in/mariam-khalid-a0015a21a) · 
+[Portfolio](https://mariamkhalid-portfolio.vercel.app/)
